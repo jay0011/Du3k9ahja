@@ -8,7 +8,9 @@ someone here
 
 
 ## Team Member Name
-<!-- Branch Information -->
+| Branch Name | Commit Count |
+|:---:|:---:|
+| master |  |
 
 
 Members all something
