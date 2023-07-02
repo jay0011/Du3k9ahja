@@ -9,7 +9,7 @@ someone here
 
 ## Team Member Name
 
-![Jagadish](https://img.shields.io/github/commit-activity/jay-neo/Du3k9ahja/master)
+https://img.shields.io/github/commit-activity/jay-neo/Du3k9ahja/master
 ![Jay](https://img.shields.io/github/commit-activity/jay-neo/Du3k9ahja/jay1)
 
 
