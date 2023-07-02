@@ -9,8 +9,8 @@ someone here
 
 ## Team Member Name
 
-![Jagadish](https://img.shields.io/github/commit-count/m/jay-neo/Du3k9ahja/master)
-![Jay](https://img.shields.io/github/count-commit/m/jay-neo/Du3k9ahja/jay1)
+![Jagadish](https://img.shields.io/github/commit-activity/y/jay-neo/Du3k9ahja/master)
+![Jay](https://img.shields.io/github/commit-activity/y/jay-neo/Du3k9ahja/jay1)
 
 
 Members all something
