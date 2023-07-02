@@ -9,7 +9,8 @@ someone here
 
 ## Team Member Name
 
-<!-- Branch Information -->
+![Jagadish](https://img.shields.io/github/commit-activity/m/jay-neo/Du3k9ahja/master)
+![Jay](https://img.shields.io/github/commit-activity/m/jay-neo/Du3k9ahja/jay1)
 
 
 Members all something
